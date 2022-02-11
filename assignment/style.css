@@ -1,0 +1,12 @@
+.info {
+  color: white;
+  background-color: hsl(150, 10%, 24%);
+  text-align: center;
+}
+
+.car {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
