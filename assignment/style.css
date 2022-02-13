@@ -1,7 +1,10 @@
 .info {
-  color: white;
-  background-color: hsl(150, 10%, 24%);
+  font-family: monospace;
+  font-size: 20px;
+  color: WhiteSmoke;
+  background-color: Black;
   text-align: center;
+  border: 10px outset DimGray;
 }
 
 .car {
